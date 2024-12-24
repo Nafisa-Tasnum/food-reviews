@@ -1,4 +1,10 @@
-const FoodItem =({src, name, description, rating, location})=>{
+const FoodItem =({src, name, description, rating, location}:{
+    src:string;
+    name:string;
+    description?:string;
+    rating:string;
+    location?:string;
+})=>{
  return <div
     className="w-full rounded-xl bg-gradient-to-tr from-[#FF512F] to-[#F09819] p-6 shadow-xl sm:w-1/2 sm:p-8"
   >
