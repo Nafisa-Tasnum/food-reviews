@@ -7,7 +7,7 @@ const FoodList = ()=>{
       className="mb-4 flex flex-col items-start justify-between gap-4 lg:flex-row"
     >
       <div>
-        
+        <img src={image.src}/>
         <h3 className="text-2xl font-bold text-neutral-100 sm:text-3xl">
          felix is awesome
         </h3>
