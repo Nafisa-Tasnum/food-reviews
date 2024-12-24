@@ -1,5 +1,6 @@
 ---
 // Import SecondaryCTA component for use in this module
+import { FoodList } from "@/components/FoodList";
 import SecondaryCTA from "@components/ui/buttons/SecondaryCTA.astro";
 import Icon from "@components/ui/icons/Icon.astro";
 
@@ -32,7 +33,7 @@ interface PricingSectionProps {
   };
 }
 ---
-
+<FoodList/>
 <section
   class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
 >
@@ -98,8 +99,9 @@ interface PricingSectionProps {
         class="mb-4 flex flex-col items-start justify-between gap-4 lg:flex-row"
       >
         <div>
+          imgCard: "@/images/dishes/3c47e3cd-181c-45ba-8fc5-5598652d141f.jpg" 
           <h3 class="text-2xl font-bold text-neutral-100 sm:text-3xl">
-            {pricing.professionalToolbox.name}
+           felix is awesome
           </h3>
           <p class="text-orange-200">{pricing.professionalToolbox.description}</p>
         </div>

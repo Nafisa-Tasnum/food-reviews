@@ -1,0 +1,175 @@
+{
+    "ratings": {
+        "1": "S-Tier",
+        "2": "A-Tier",
+        "3": "B-Tier",
+        "4": "C-Tier",
+        "5": "D-Tier"
+    },
+    "dishes": [
+        {
+            "id": "e7720606-3573-45d3-9a4d-b4e7136fce07",
+            "name": "Dahl",
+            "location": "Nila Bhabi",
+            "rating": "2"
+        },
+        {
+            "id": "f86f1fcd-3af4-4ced-b8c8-7461dc228b41",
+            "name": "Star-Fruit with sugar",
+            "location": "Shanto Bhaia",
+            "rating": "2"
+        },
+        {
+            "id": "78afba54-3ad6-42d9-85cb-0ee796383e1c",
+            "name": "Aloo Puri",
+            "location": "Nila Bhabi",
+            "rating": "3"
+        },
+        {
+            "id": "bca1b7b7-acb8-4870-9e00-5a6e49a0c73e",
+            "name": "Do-Bhaji Pitha",
+            "location": "",
+            "rating": "3"
+        },
+        {
+            "id": "5b31092b-3f50-44a9-b727-11ef22b01ad1",
+            "name": "Bitter Kraut",
+            "location": "Nila Bhabi",
+            "rating": "4"
+        },
+        {
+            "id": "df0906e5-4ee7-4824-80b6-ce086ebd26ab",
+            "name": "Talk",
+            "location": "Nila Bhabi",
+            "rating": "4"
+        },
+        {
+            "id": "4328db51-8678-4b4c-9669-507c13122cdd",
+            "name": "Chicken Khorma",
+            "location": "Soma Bhabi",
+            "rating": "1"
+        },
+        {
+            "id": "cae4159a-d5ff-4fe9-b060-3067f050183b",
+            "name": "Jaggery",
+            "location": "Nila Bhabi",
+            "rating": "1"
+        },
+        {
+            "id": "fd548bc5-3e38-450e-b7c9-81cbca71cc82",
+            "name": "Jaggery Payesh",
+            "location": "Nila Bhabi",
+            "rating": "1"
+        },
+        {
+            "id": "7b98b470-8733-42de-b34a-aedf3c21f3a2",
+            "name": "Fruitcake (morobba cake)",
+            "location": "",
+            "rating": "2"
+        },
+        {
+            "id": "ddbdaecd-931a-4f6a-8794-bfee647f43b9",
+            "name": "Halwa",
+            "description": "Similar to Grießbrei.",
+            "location": "",
+            "rating": "2"
+        },
+        {
+            "id": "9e42e285-1b45-41d0-8055-08f519d38057",
+            "name": "Star-Fruit with sugar",
+            "location": "Shanto Bhaia",
+            "rating": "2"
+        },
+        {
+            "id": "c0990369-5111-4f35-841e-3d5e92ea696f",
+            "name": "Halfshi Shondesh",
+            "location": "",
+            "rating": "3"
+        },
+        {
+            "id": "b6feaee4-e68a-40ba-b464-8ec21b2cbe86",
+            "name": "Thin (chiton) Pitha",
+            "location": "",
+            "rating": "3"
+        },
+        {
+            "id": "4b663d1c-27b8-44cc-a6b5-24eb04a5dbaa",
+            "name": "Potato + Cabbage Bhaji",
+            "location": "Soma Bhabi",
+            "rating": "3"
+        },
+        {
+            "id": "c42519e7-7695-4625-8522-8830f76dc43c",
+            "name": "Pudding",
+            "description": "Not sweet enough (tastes rather bland)",
+            "location": "Samina Apu",
+            "rating": "4"
+        },
+        {
+            "id": "13afe8c6-cd65-4e03-8813-1e8e713bca25",
+            "name": "Olive Achar",
+            "location": "",
+            "rating": "5"
+        },
+        {
+            "id": "a7dc9c31-c615-4068-8f0f-ca4829ecdb5a",
+            "name": "Sesame Naru",
+            "location": "",
+            "rating": "5"
+        },
+        {
+            "id": "fd0d7907-310c-4394-a49d-71b224342cfa",
+            "name": "Cauliflower + Beans + Aloo Bhaji",
+            "location": "Soma Bhabi",
+            "rating": "1"
+        },
+        {
+            "id": "e5dcfaea-2585-4723-a3d9-e56c39d9f579",
+            "name": "Glazed Egg with Ruti",
+            "location": "Shanto Bhaia",
+            "rating": "1"
+        },
+        {
+            "id": "b35bf088-9f9c-4c37-84d1-570cfa671072",
+            "name": "Moghlai",
+            "location": "",
+            "rating": "1"
+        },
+        {
+            "id": "de13a302-f71f-4211-85f6-687d24c7f58b",
+            "name": "Nolem Gurer Shondesh",
+            "location": "",
+            "rating": "1"
+        },
+        {
+            "id": "57c5c5e1-0dc1-440c-950c-3aad38999920",
+            "name": "Ovaltin Cake",
+            "location": "Chhayanir",
+            "rating": "1"
+        },
+        {
+            "id": "c4179c66-31c4-458c-9bd3-ce758f2e2846",
+            "name": "Rui Fish with Tomato + green peas",
+            "location": "Soma Bhabi",
+            "rating": "1"
+        },
+        {
+            "id": "49cafdd1-1a9b-4b7d-9703-e6191ffdf388",
+            "name": "Rui Fish with Tomato + Aloo",
+            "location": "Nila Bhabi",
+            "rating": "1"
+        },
+        {
+            "id": "3c47e3cd-181c-45ba-8fc5-5598652d141f",
+            "name": "Chicken Polau",
+            "location": "Samina Apu",
+            "rating": "1"
+        },
+        {
+            "id": "1117a963-dd82-4458-bcad-8f4d77a2586e",
+            "name": "Fried Egg Dim Bhuna",
+            "location": "Samina Apu",
+            "rating": "1"
+        }
+    ]
+}
