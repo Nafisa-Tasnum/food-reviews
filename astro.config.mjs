@@ -8,7 +8,8 @@ import react from '@astrojs/react'
 // https://astro.build/config
 export default defineConfig({
   // https://docs.astro.build/en/guides/images/#authorizing-remote-images
-  site: "https://screwfast.uk",
+  site: "https://nafisa-tasnum.github.io",
+  base: '/food-reviews',
   image: {
     domains: ["images.unsplash.com"],
   },
