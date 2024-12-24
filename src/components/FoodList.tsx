@@ -10,7 +10,6 @@ const FoodList = ()=>{
         {data.dishes.map((values)=>{
             const searchableFileString = `../images/dishes/${values.id}.jpg`
             const src = images[searchableFileString]?.default?.src
-            console.log(src)
             return <FoodItem {...values} src={src}/>
         })}
         </div>
