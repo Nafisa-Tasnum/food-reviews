@@ -6,7 +6,8 @@ const FoodItem =({src, name, description, rating, location}:{
     location?:string;
 })=>{
  return <div
-    className="w-full rounded-xl bg-gradient-to-tr from-[#FF512F] to-[#F09819] p-6 shadow-xl sm:w-2/3 sm:p-9"
+ style={{backgroundColor: "#2D2D2D"}}  
+ className="w-full rounded-xl p-6 shadow-xl sm:w-2/3 sm:p-9 mb-4"
   >
     <div
       className="mb-4 flex flex-col items-start justify-between gap-4 lg:flex-row"
@@ -23,10 +24,10 @@ const FoodItem =({src, name, description, rating, location}:{
 
     <div className="mb-4">
       
-      <span className="text-lg font-bold text-orange-100"
+      <span className="text-lg font-bold text-neutral-100"
         >{description}</span
       >
-      <p className="text-xl text-orange-200">{location}</p>
+      <p className="text-xl text-neutral-200">{location}</p>
       
     </div>
   </div>
