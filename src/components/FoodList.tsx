@@ -1,5 +1,9 @@
+import data from "@/data_files/data.json"
 import image from "@/images/dishes/1117a963-dd82-4458-bcad-8f4d77a2586e.jpg"
+
+const images = import.meta.glob('../images/dishes/*', { eager: true });
 const FoodList = ()=>{
+    console.log(images)
     return <div
     className="w-full rounded-xl bg-gradient-to-tr from-[#FF512F] to-[#F09819] p-6 shadow-xl sm:w-1/2 sm:p-8"
   >
