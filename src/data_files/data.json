@@ -170,6 +170,103 @@
             "name": "Fried Egg Dim Bhuna",
             "location": "Samina Apu",
             "rating": "1"
+        },
+        {
+            "id": "aa70b95d-a0c0-4d3c-a44f-5f26722a4aa6",
+            "name": "Boneless Chicken Chap",
+            "description": "Watch out for soft bones!",
+            "location": "Terracotta Tales",
+            "rating": "2"
+        },
+        {
+            "id": "edbd1208-8c34-4753-9ad6-0322efdb1deb",
+            "name": "Dahl with Tomato",
+            "location": "",
+            "rating": "2"
+        },
+        {
+            "id": "e1e82f39-cc01-44b3-a780-0712b2acc4fe",
+            "name": "Roshmalai",
+            "location": "Madina",
+            "rating": "2"
+        },
+        {
+            "id": "f8513f6a-5e8c-415b-b1c7-27422f978eab",
+            "name": "Strawberry Yoghurt Drink",
+            "description": "Rather bland, only tastes slightly sweet and nothing else",
+            "location": "Aarong",
+            "rating": "3"
+        },
+        {
+            "id": "df99a949-9397-4227-b5f3-c641809734e1",
+            "name": "Dudh Chitoi",
+            "location": "",
+            "description": "Tastes like sweet bread. Probably better when fresh.",
+            "rating": "3"
+        },
+        {
+            "id": "8e0d8e33-4ddd-4f09-a436-1fad3af9dc2f",
+            "name": "Orange Mishti",
+            "description": "Tastes like chewing gum",
+            "location": "(Brand) Stereoscopic Sweets",
+            "rating": "3"
+        },
+        {
+            "id": "5602cd31-d100-4684-8652-6c1a4b617158",
+            "name": "Tiler Khaja",
+            "location": "",
+            "rating": "3"
+        },
+        {
+            "id": "793d2d17-0ea6-4e40-8aa7-d207dfba2a69",
+            "name": "Mint Lemonade",
+            "description": "Way too sour",
+            "location": "Terracotta Tales",
+            "rating": "4"
+        },
+        {
+            "id": "0cda551b-4840-48ef-8aa7-d55efe75cfc4",
+            "name": "Reshmi Kabab",
+            "description": "Just dry chicken, nothing else",
+            "location": "Terracotta Tales",
+            "rating": "5"
+        },
+        {
+            "id": "62e2154c-6097-4dac-8935-2d63a27842f1",
+            "name": "Beef Moghlai Paratha",
+            "location": "Terracotta Tales",
+            "rating": "1"
+        },
+        {
+            "id": "2e64437a-84a9-41fb-b24e-7e0da4a4984f",
+            "name": "Faluda",
+            "location": "Terracotta Tales",
+            "rating": "1"
+        },
+        {
+            "id": "7fe0364e-6320-480f-97bd-0c93898d1260",
+            "name": "Frozen Nuggets (via Air Fryer)",
+            "description": "Great with rice and Dahl",
+            "location": "Heragon",
+            "rating": "1"
+        },
+        {
+            "id": "7f4f0c30-bfe3-437e-a06f-571eda2b38f0",
+            "name": "Langcha",
+            "location": "",
+            "rating": "1"
+        },
+        {
+            "id": "f9654263-6e6f-4642-b78c-332a921ac7f6",
+            "name": "Mashed Potato",
+            "location": "Terracotta Tales",
+            "rating": "1"
+        },
+        {
+            "id": "bef9c4c2-7fe1-4d54-bfca-a8206371132c",
+            "name": "Shor Badam",
+            "location": "Madina",
+            "rating": "1"
         }
     ]
 }
